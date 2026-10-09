@@ -1,0 +1,60 @@
+{
+  "sheets": [
+    {
+      "url": "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID_1/edit",
+      "tab": "KYZREPS SHEET",
+      "cols": {
+        "name": 1,
+        "img": 0,
+        "usd": 2,
+        "raw": 3,
+        "batch": 4,
+        "rating": 5
+      },
+      "sections": true,
+      "gid": "0"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID_2/edit",
+      "tab": "WOMEN'S SHEET",
+      "cols": {
+        "name": 1,
+        "img": 0,
+        "usd": 2,
+        "raw": 3,
+        "batch": 4,
+        "rating": 5
+      },
+      "sections": true,
+      "gid": "669002593"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID_3/edit",
+      "tab": "RESELL",
+      "cols": {
+        "name": 1,
+        "img": 0,
+        "usd": 2,
+        "raw": 3,
+        "batch": 4,
+        "rating": 5
+      },
+      "sections": true,
+      "gid": "1752862149"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID_4/edit",
+      "tab": "TIKTOK HAUL'S",
+      "cols": {
+        "name": 1,
+        "img": 0,
+        "usd": 2,
+        "raw": 3,
+        "batch": 4,
+        "rating": 5
+      },
+      "sections": true,
+      "gid": "278415074"
+    }
+  ]
+}
